@@ -1,4 +1,4 @@
-import pytest
+# import pytest
 from page.about_page import AboutPage
 from base.base_driver import android_driver
 
